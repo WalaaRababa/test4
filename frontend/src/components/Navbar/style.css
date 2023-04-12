@@ -1,0 +1,19 @@
+.NavBar {
+  padding: 5px;
+  margin-bottom: 3px;
+  font-size: 18px;
+  font-family: "Segoe UI";
+}
+
+.Link {
+  margin-right: 40px;
+}
+
+.logout {
+  background-color: white;
+  text-decoration: underline;
+  color: purple;
+  width: fit-content;
+  font-size: 18px;
+  font-family: "Segoe UI";
+}

@@ -1,0 +1,31 @@
+.article {
+  background-color: rgba(216, 191, 216, 0.418);
+  width: 50%;
+  margin: 10px;
+  padding: 15px;
+}
+
+.delete {
+  background-color: rgb(218, 24, 24);
+  width: 30px;
+  float: right;
+}
+
+.update {
+  background-color: rgb(67, 95, 253);
+  width: 80px;
+  float: right;
+}
+
+.comment {
+  background-color: #0202fd11;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding: 5px;
+}
+
+.commentBtn {
+  background-color: rgb(38, 44, 78);
+  width: 120px;
+  float: right;
+}
